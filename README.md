@@ -1,0 +1,2 @@
+# Abid
+COMMAND termux
